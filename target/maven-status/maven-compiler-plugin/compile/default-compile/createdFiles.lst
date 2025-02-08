@@ -1,0 +1,5 @@
+com/guiplus/backend/BackendApplication.class
+com/guiplus/backend/repository/UtilisateurRepository.class
+com/guiplus/backend/service/UtilisateurService.class
+com/guiplus/backend/controller/UtilisateurController.class
+com/guiplus/backend/model/Utilisateur.class

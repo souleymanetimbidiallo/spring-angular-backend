@@ -1,0 +1,5 @@
+/home/souleymane/projects/spring-angular-app/backend/src/main/java/com/guiplus/backend/BackendApplication.java
+/home/souleymane/projects/spring-angular-app/backend/src/main/java/com/guiplus/backend/controller/UtilisateurController.java
+/home/souleymane/projects/spring-angular-app/backend/src/main/java/com/guiplus/backend/model/Utilisateur.java
+/home/souleymane/projects/spring-angular-app/backend/src/main/java/com/guiplus/backend/repository/UtilisateurRepository.java
+/home/souleymane/projects/spring-angular-app/backend/src/main/java/com/guiplus/backend/service/UtilisateurService.java
